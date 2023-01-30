@@ -1,0 +1,42 @@
+*{
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    text-align: center;
+}
+.main{
+    background-color: rgb(230, 152, 7);
+    color: black;
+    border: rgb(15, 15, 78);
+}
+
+.rice{
+    background-color: red;
+}
+
+.noodle{
+    background-color: aqua;
+}
+
+.quesadilla{
+    background-color: yellow;
+}
+
+.title{
+    font-size: 48px;
+}
+
+img{
+    height: 500px;
+    width: auto;
+}
+
+.ing{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.steps{
+    font-size: 28px;
+}
+
+
+
